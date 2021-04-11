@@ -11,5 +11,4 @@ The project's code is seperated into two working directories, one for the backen
  4. To run the gui first type: `sudo apt-get install qt4-dev-tools`
  5. After installing, simply click on the open on the main page, and choose the GUI folder
 
-To learn more about the project, here's the repo:
-https://repo.csd.uwo.ca/projects/COMPSCI3307_F2020/repos/group7/browse
+To run the program on windows, use the SmartCalendar executable file in the SmartCalendar folder.
